@@ -1,4 +1,4 @@
-FROM JoneStonish/dujiaoka
+FROM jiangjuhong/dujiaoka
 
 ENV WEB_DOCUMENT_ROOT /app/public
 
